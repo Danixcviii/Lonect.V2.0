@@ -1,6 +1,6 @@
 # Lonect.V2.0
 
-El juego empieza en el modo de interacción principal 
+El juego empieza en el modo de interacción principal /n
 Los siguientes son los comandos para interactuar con la app.
 Shift+c : modo de creación
 Shift+G : modod de juego 
