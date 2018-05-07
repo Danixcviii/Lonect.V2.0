@@ -143,7 +143,10 @@ class Level {
   };
 
   void display() {
-    userGraph.display();
+    pushStyle();
+     strokeWeight(5);
+      userGraph.display();
+    popStyle();
     graph.display();
   };
 
