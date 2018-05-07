@@ -17,3 +17,5 @@
  <p>al almacenar un nivel creado, se recomiendo en el buscador de carpetas escribir "\nombreDelNivel" y enter<p>
  <p> esto crea una carpeta donde se almacenan los tres archivos del juego</p>
  <p> hay modos de juego que no estan disponibles y uno que otro glitch </p>
+ <p>Nota: el juego muestra su estado en la consola , es ahí donde dice si el usuario gano o no , tambien </p>
+ <p>al trazar un lazo este se pinta de negreo sobre el lazo ya existente, lo que hace parecer como si no se hubiera seleccionado nada </p>
